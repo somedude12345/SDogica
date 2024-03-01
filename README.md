@@ -1,0 +1,2 @@
+# SDogica
+A LOGICAL program :)
